@@ -1,0 +1,7 @@
+#100DaysOfCode
+@ the odin project
+Creating a repository
+Adding a file
+Modifying a file
+Stagging
+Pushing it to git
